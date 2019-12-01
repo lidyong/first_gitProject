@@ -2,7 +2,7 @@ package com.join.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
-
+//test remote edit file
 
 @Document(indexName="my_first",type="usr")
 public class User {
